@@ -1,0 +1,95 @@
+SilverSpoon Marquee. East Canal Road Near LGS School Babu CNG 204 Chak Bridge. Faisalabad 760 Heating Wifi AirConditioner 
+0 1 0
+1 1 1
+0 1 1 0 0
+abdullahPur
+MinahilMoon Marquee. West Canal Road Near ALI CNG 234 Chak. Faisalabad 900 Heating AirConditioner zero 
+1 1 1
+1 1 1
+0 1 1 1 1
+Canal_Road
+AliSakoon Marquee.
+East Canal Road Near Eden valley .
+Faisalabad
+590
+Heating Wifi AirConditioner
+1 1 0
+1 1 1
+0 1 1 1 0
+EdenValley
+Aflatoon Marquee.
+D-Ground Near Bambino. 
+Faisalabad
+500
+Heating Wifi AirConditioner
+1 1 0
+1 1 1
+1 1 1 0 0
+D-Ground
+Balloon Marquee.
+Plot-34 Circular Rd.
+Faisalabad
+1500
+Heating Wifi AirConditioner
+1 1 1
+1 1 1
+1 1 1 1 1
+Kohinoor
+KiteKidoor Marquee.
+Allah-hu-Chowk Johar town.
+Lahore
+700
+Heating Wifi AirConditioner
+0 1 0
+1 0 1
+1 1 1 0 0
+Allah-hu-Chowk
+Pool Marquee.
+Chenone Road Near smart School .
+Faisalabad
+300
+Heating Wifi AirConditioner
+1 1 0
+1 1 1
+1 1 0 0 0
+Chenone_Road
+COOL Marquee.
+Nishatabad Road Near Misaq-ul-Mall.
+Faisalabad
+500
+Heating Wifi AirConditioner
+1 1 0
+1 1 1
+1 1 1 0 0
+Nishatabad 
+fitoor Marquee.
+Canal Road Near The city School Ravi Campus. 
+Lahore
+760
+Heating Wifi AirConditioner
+0 1 0
+1 1 1
+0 1 1 0 0
+Canal_Road
+FOOL Marquee.
+Near Kashmir Bridge AHQadri interpool rd.
+Islamabad
+560
+Heating Wifi AirConditioner
+1 1 0
+1 1 1
+0 1 1 1 0
+Kashmir_Bridge
+
+
+
+
+
+
+
+
+
+
+
+
+
